@@ -16,7 +16,13 @@
   "scripts": {
     "test": "echo \"Error: run tests from core\""
   },
+  "bin": {
+    "der-cli-dev": "bin/index.js"
+  },
   "dependencies": {
     "@der-cli-dev/utils": "^1.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
