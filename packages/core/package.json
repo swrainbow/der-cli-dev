@@ -1,6 +1,6 @@
 {
   "name": "@der-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "der-cli-dev",
   "author": "shen wei <534965993@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "der-cli-dev": "bin/index.js"
   },
   "dependencies": {
-    "@der-cli-dev/utils": "^1.0.0"
+    "@der-cli-dev/utils": "^1.0.1"
   },
   "publishConfig": {
     "access": "public"
